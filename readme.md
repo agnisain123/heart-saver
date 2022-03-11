@@ -2,7 +2,7 @@
 
 [![Contributors](https://img.shields.io/github/contributors/dsckgec/heart-saver.svg)](https://github.com/dsckgec/heart-saver/graphs/contributors) [![Forks](https://img.shields.io/github/forks/dsckgec/heart-saver.svg)](https://github.com/dsckgec/heart-saver/network/members) [![Issues](https://img.shields.io/github/issues/dsckgec/heart-saver.svg)](https://github.com/dsckgec/heart-saver/issues) [![Pull Request](https://img.shields.io/github/issues-pr-closed-raw/dsckgec/heart-saver)](https://github.com/dsckgec/heart-saver/pulls)
 
-A simple website which takes data froma user to predict if there are any risks of a heart attack.
+A simple website which takes data from a user to predict if there are any risks of a heart attack.
 
 
 1. [Description](#description)
