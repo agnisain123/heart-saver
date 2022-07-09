@@ -6,15 +6,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Prediction</title>
 </head>
+<style>
+    body {background-color: powderblue;}
+    h1  {
+        color: blue;
+        font-family: verdana;
+        font-size: 300%;
+        }
+    h2 {
+        color:coral
+        }
+</style>
 <body>
     <center>
     <h1><u>Prediction</u></h1>
     
     {%if data==0%}
-    <h2>You have high risks of a heart-attack!</h2>
+    <h2>You are fit enough and have low chances of a heart-attack.</h2>
 
     {%else%}
-    <h2>You are fit enough and have low chances of a heart-attack.</h2>
+    <h2>You have high risks of a heart-attack!</h2>
 
     {%endif%}
 
