@@ -2,7 +2,8 @@
 
 [![Contributors](https://img.shields.io/github/contributors/dsckgec/heart-saver.svg)](https://github.com/dsckgec/heart-saver/graphs/contributors) [![Forks](https://img.shields.io/github/forks/dsckgec/heart-saver.svg)](https://github.com/dsckgec/heart-saver/network/members) [![Issues](https://img.shields.io/github/issues/dsckgec/heart-saver.svg)](https://github.com/dsckgec/heart-saver/issues) [![Pull Request](https://img.shields.io/github/issues-pr-closed-raw/dsckgec/heart-saver)](https://github.com/dsckgec/heart-saver/pulls)
 
-A simple website which takes data from a user to predict if there are any risks of a heart attack.
+
+A basic GitHub repository template for initializing open source projects on a single click.
 
 
 1. [Description](#description)
@@ -76,7 +77,7 @@ Use your ML skills to predict the chances of a person will suffer from a heart a
 
 There are two ways of running the code.
   1. Running the code on web browser.(Google Colab) [Recommended]
-      - Head on to [Google colab](https://www.colab.research.google.com)
+      - Head on to [Google colab](https://colab.research.google.com/notebooks/intro.ipynb)
       - Then click on ```Upload Notebook``` Tab.
       - Upload the notebook that you got from this repo.
         ![Imgur](https://i.imgur.com/a4zM1GW.png)
@@ -107,10 +108,11 @@ Here is the web app for heart-saver.<br>
 https://heart-saver.herokuapp.com/
 
 - Homepage: Contains the necessary boxes to fill the details as mentioned in [Attribute Information](#Attribute-Information).
-  ![Imgur](https://i.imgur.com/lVnUUhI.png)
+  <img width="1440" alt="Screenshot 2021-05-25 at 18 31 52" src="https://user-images.githubusercontent.com/76846542/119505416-8f2a9080-bd8a-11eb-890f-e496ec23d7b3.png">
 - Click on **Submit** button.
 - See the results/predictions.
-  ![Imgur](https://i.imgur.com/MEpdhtM.png)
+  <img width="1440" alt="Screenshot 2021-05-25 at 18 32 07" src="https://user-images.githubusercontent.com/76846542/119505437-9487db00-bd8a-11eb-8759-7e43241f900d.png">
+
 
 ### Attribute Information
 1. age (in years)
